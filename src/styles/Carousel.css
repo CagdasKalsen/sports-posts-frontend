@@ -1,0 +1,10 @@
+img.carousel {
+  padding: 10px;
+height: 500px;
+width: 350px;
+}
+
+.carousel-item {
+display: flex;
+flex-wrap: wrap;
+}
